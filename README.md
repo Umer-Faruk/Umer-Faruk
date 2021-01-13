@@ -12,13 +12,14 @@
  
  ## Expand_your_area:
       a simple game built using JS and Phaser framework
-  <img src = "https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
+  <img aling ='right' src = "https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="200" height="200"/>
  
   
   
  
  ## no_limit_snake
        a siple 2d game built using pygame
+  <img aling ='right' src = "https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
       
 
  
