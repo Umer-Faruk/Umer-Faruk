@@ -21,20 +21,19 @@
       a simple game built using JS and Phaser framework
   <img  align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
   
-  
-</div>
+ </div>
 </td>
-    <td>
-     
- <div>
-  no_limit_snake
+
+   <td>
+      <div>
+  <h3>no_limit_snake:</h3>
        a siple 2d game built using pygame
   <img align='right' src = "https://github.com/Umer-Faruk/no_limit_snake/raw/master/image.png?raw=true"  width="100" height="100"/>
  </div>
  </td>
  <td>
   <div>
- catch_me_if_you_can
+ <h3>catch_me_if_you_can</h3>
       a simple 2d game built using python, pygame
    <img  src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
     </div>
@@ -44,14 +43,14 @@
   <tr>
   <td> 
     <div>
-  my_suparman
+ <h3> my_suparman</h3>
   
- <img  src = "https://github.com/Umer-Faruk/Pygame_projects/raw/master/image.png?raw=true"  width="100" height="100"/>
+ <img  src = "https://github.com/Umer-Faruk/Pygame_projects/raw/master/image.png?raw=true"  width="200" height="100"/>
  </div>
  
  <td>
   <div>
- Expand_your_aria
+<h3> Expand_your_aria</h3>
       simple game build using python, pygame
    <img   src = "https://github.com/Umer-Faruk/Expand_your_aria/raw/master/image.png?raw=true"  width="100" height="100"/>
     </div>
