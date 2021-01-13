@@ -35,7 +35,7 @@
   <div>
  <h3>catch_me_if_you_can</h3>
       a simple 2d game built using python, pygame
-   <img  src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
+   <img  align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
     </div>
   </td>
   </tr>
@@ -45,14 +45,14 @@
     <div>
  <h3> my_suparman</h3>
   
- <img  src = "https://github.com/Umer-Faruk/Pygame_projects/raw/master/image.png?raw=true"  width="200" height="100"/>
+ <img align='right' src = "https://github.com/Umer-Faruk/Pygame_projects/raw/master/image.png?raw=true"  width="200" height="100"/>
  </div>
  
  <td>
   <div>
 <h3> Expand_your_aria</h3>
       simple game build using python, pygame
-   <img   src = "https://github.com/Umer-Faruk/Expand_your_aria/raw/master/image.png?raw=true"  width="100" height="100"/>
+   <img  align='right' src = "https://github.com/Umer-Faruk/Expand_your_aria/raw/master/image.png?raw=true"  width="100" height="100"/>
     </div>
 </td>
  </tr>
