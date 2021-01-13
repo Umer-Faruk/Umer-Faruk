@@ -22,7 +22,7 @@
  ## Expand_your_area:
       a simple game built using JS and Phaser framework
  
- <img align='right' src="/Companylogo.jpeg" width="400">
+ <img align='right' src="/Companylogo.jpeg" width="200">
  ## Repo:
  
  ## no_limit_snake
@@ -33,7 +33,8 @@
   
   ## catch_me_if_you_can
       a simple 2d game built using python, pygame
- <img align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif" width="200" height="200>
+ ![game play](https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif)
+<!--  <img align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif" width="200" height="200> -->
  ## Repo:
   
       
