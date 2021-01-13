@@ -10,9 +10,10 @@
  
  <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">My Gmes:</b></td>
+<!--     <td><b style="font-size:30px">Title 2</b></td> -->
  </tr>
+  
  <tr>
     <td> ### Expand_your_area:
       a simple game built using JS and Phaser framework
@@ -27,20 +28,23 @@
       a simple 2d game built using python, pygame
    <img  src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
   </td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
- 
- ###  My Gmes:
- 
-
- ### my_suparman
+  
+  
+  
+  <td> ### my_suparman
   
  <img  src = "https://github.com/Umer-Faruk/Pygame_projects/raw/master/image.png?raw=true"  width="100" height="100"/>
  
  ### Expand_your_aria
       simple game build using python, pygame
    <img   src = "https://github.com/Umer-Faruk/Expand_your_aria/raw/master/image.png?raw=true"  width="100" height="100"/>
+</td>
+ </tr>
+</table>
+ 
+ 
+ 
+
 
   
       
