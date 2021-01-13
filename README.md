@@ -5,6 +5,8 @@
   ### love to developing games and problem solving 
   <img align='right' src="/Companylogo.jpeg" width="400">
   
+ ### - :computer: Tesc Stack 
+  
 
  
  
