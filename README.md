@@ -1,4 +1,4 @@
-### Hi there it's me UmerFaruk👋
+<h1> Hi there it's me UmerFaruk👋 <img src="/Companylogo.jpeg" width="40" height="35"><h1>
 
 
   I am a final year student at MSRIT Bangalore, in Information Science.  
@@ -27,7 +27,8 @@
  ## no_limit_snake
       a siple 2d game built using pygame
       
- <img align='right' src="/Umer-Faruk/no_limit_snake/master/image.png" width="400">
+ <img align='right' src="https://raw.githubusercontent.com/Umer-Faruk/no_limit_snake/master/image.png" width="400">
+ ![alt text](https://github.com/Umer-Faruk/no_limit_snake/blob/master/image.png?raw=true)
       
  
   
