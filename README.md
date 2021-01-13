@@ -28,13 +28,13 @@
  ## no_limit_snake
       a siple 2d game built using pygame
       
- <img align='right' src="https://raw.githubusercontent.com/Umer-Faruk/no_limit_snake/master/image.png" width="200" height="200>
+ <img align='right' src="https://raw.githubusercontent.com/Umer-Faruk/no_limit_snake/master/image.png" width="200" height="200/>
  ## Repo:
   
   ## catch_me_if_you_can
       a simple 2d game built using python, pygame
  ![game play](https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif)
-<!--  <img align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif" width="200" height="200> -->
+ <img align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif" width="200" height="200/>
  ## Repo:
   
       
