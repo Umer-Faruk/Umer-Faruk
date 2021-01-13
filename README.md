@@ -8,7 +8,7 @@
  ###  :computer: Tech Stack 
  HTML ,Python, C#,  Unity 3D
  
- <table  bgcolor="green" border="2" >
+ <table  backgoundcolor="green" border="0" >
  <tr>
     <td><b style="font-size:30px">My Gmes:</b></td>
 <!--     <td><b style="font-size:30px">Title 2</b></td> -->
