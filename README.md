@@ -5,10 +5,21 @@
   ### love to developing games and problem solving 
   <img align='right' src="/Companylogo.jpeg" width="400">
   
- ###  :computer: Tech Stack HTML 
+ ###  :computer: Tech Stack 
+ ###                        HTML 
  ###                        Python
  ###                        C#
  ###                        Unity 3D
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ###  My Gmes:
+ 
+  
   
 
  
