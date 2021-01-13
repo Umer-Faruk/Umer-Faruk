@@ -23,12 +23,21 @@
       a simple game built using JS and Phaser framework
  
  <img align='right' src="/Companylogo.jpeg" width="400">
+ ## Repo:
  
  ## no_limit_snake
       a siple 2d game built using pygame
       
- <img align='right' src="https://raw.githubusercontent.com/Umer-Faruk/no_limit_snake/master/image.png" width="400">
- ![alt text](https://github.com/Umer-Faruk/no_limit_snake/blob/master/image.png?raw=true)
+ <img align='right' src="https://raw.githubusercontent.com/Umer-Faruk/no_limit_snake/master/image.png" width="200" height="200>
+ ## Repo:
+  
+  ## catch_me_if_you_can
+      a simple 2d game built using python, pygame
+ <img align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif" width="200" height="200>
+ ## Repo:
+  
+      
+  
       
  
   
