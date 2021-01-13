@@ -12,6 +12,7 @@
  
  ## Expand_your_area:
       a simple game built using JS and Phaser framework
+  <img src = "https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true" />
  
   
   
