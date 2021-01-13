@@ -17,9 +17,10 @@
   <tr>
   <td>
     <h3>Stick To Floor:</h3>
-      Download from playStore 
-<!--       <img src="" > -->
-    [Link to Google](https://www.google.com)
+      Download from playStore :
+    https://play.google.com/store/apps/details?id=com.UMCreations.SticToFloor
+
+
       <a >
     </td>
   </tr>
