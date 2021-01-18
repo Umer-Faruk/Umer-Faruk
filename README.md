@@ -1,9 +1,11 @@
-<h1> Hi there it's me UmerFaruk👋   <img src="https://media.giphy.com/media/kFuavIYvRQZGg/giphy.gif" width="40" height="35">                  <img src="/Companylogo.jpeg" width="40" height="35"><h1>
+<h1> Hi there it's me UmerFaruk👋   <img src="https://media.giphy.com/media/kFuavIYvRQZGg/giphy.gif" width="40" height="35"> <h1>
 
 
   I am a final year student at MSRIT Bangalore, in Information Science.  
   ### love to developing games and problem solving 
 <!--   <img align='right' src="/Companylogo.jpeg" width="400"> -->
+
+<img src="/Companylogo.jpeg" width="50" height="50">
   
  ###  :computer: Tech Stack 
  HTML ,Python, C#,  Unity 3D
