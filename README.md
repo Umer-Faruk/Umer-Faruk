@@ -5,7 +5,7 @@
   ### love to developing games and problem solving 
 <!--   <img align='right' src="/Companylogo.jpeg" width="400"> -->
 
-<img src="/Companylogo.jpeg" width="50" height="50">
+<img align='right' src="/Companylogo.jpeg" width="100" height="100">
   
  ###  :computer: Tech Stack 
  HTML ,Python, C#,  Unity 3D
