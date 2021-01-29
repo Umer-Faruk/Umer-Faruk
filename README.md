@@ -8,7 +8,7 @@
 
   
  ###  :computer: Tech Stack 
- HTML ,Python, C#,  Unity 3D
+ HTML ,Python, Node JS,C#,  Unity 3D
  
  ### Medium Blog:
   <h4>How to Write a Simple Game using Python</h4>:https://medium.com/@umcreation.gvt/my-first-simple-game-using-python-91190edf6045
