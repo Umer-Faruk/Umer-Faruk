@@ -12,9 +12,10 @@
  ###  :computer: Tech Stack 
  HTML ,Python, Node JS,C#,  Unity 3D
   
-  <canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
-Your browser does not support the HTML canvas tag.
-</canvas>
+   <html> 
+     <a target="_blank" href="https://www.youtube.com/watch?v=Onv9nhPIBp0&t=1m2s">Link to YouTube</a>.
+
+  </html>
  
  ### Medium Blog:
   <h4>How to Write a Simple Game using Python</h4>:https://medium.com/@umcreation.gvt/my-first-simple-game-using-python-91190edf6045
