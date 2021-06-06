@@ -13,17 +13,17 @@
  <summary>HTML</summary>
  intermediate level in html  
  </details> 
+ 
   
 <details>
  <summary>Python</summary>
-~~~
-a
-b
-c
-~~~
+  <blockquote>
+ 
  intermediate level python and OOPS in python
     using for all problam solvings
+    </blockquote>
   </details> 
+  
   
   <details >
  <summary>Node JS</summary>
