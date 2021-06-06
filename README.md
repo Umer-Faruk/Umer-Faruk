@@ -21,12 +21,7 @@
  intermidiat levele in python 
      using for all problam solving 
  </details> 
-  padding: 4px;
-  width: 200px;
-  background-color: #eeeeee;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
+   
   
   
  <details style="padding: 4px; width: 200px; background-color: #eeeeee;  border: none;  box-shadow: 1px 1px 2px #bbbbbb">
