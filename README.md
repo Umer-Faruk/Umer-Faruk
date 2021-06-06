@@ -6,8 +6,13 @@
 <!--   <img align='right' src="/Companylogo.jpeg" width="400"> -->
   
 
-   
- ###  :computer: Tech Stack 
+  <details>
+ <summary> ###  :computer: Tech Stack </summary>
+    <blockquote>
+ 
+  
+  
+ 
 <!--  HTML ,Python, Node JS,C#,  Unity 3D -->
  <details>
  <summary>HTML</summary>
@@ -48,6 +53,9 @@
  intermediate level in Unity 3D Software 
    </blockquote>
  </details> 
+  
+   </blockquote>
+ </details>  
   
    
    
