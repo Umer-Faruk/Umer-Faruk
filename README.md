@@ -6,8 +6,8 @@
 <!--   <img align='right' src="/Companylogo.jpeg" width="400"> -->
   
 
-  <details>
- <summary> ###  :computer: Tech Stack </summary>
+  <details open>
+ <summary> <B> :computer: Tech Stack </B></summary>
     <blockquote>
  
   
