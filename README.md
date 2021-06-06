@@ -10,9 +10,26 @@
   
  ###  :computer: Tech Stack 
  HTML ,Python, Node JS,C#,  Unity 3D
-  
-   
  <details>
+ <summary>HTML</summary>
+ intermidiat levele in html  
+ </details> 
+ <details>,
+   <details>
+ <summary>Python</summary>
+ intermidiat levele in python 
+     using for all problam solving 
+ </details> 
+ <details>,
+ <details>
+ <summary>Node JS</summary>
+ intermidiat levele in Node js 
+ build API for parsnal projects
+ </details> 
+ <details>
+   
+   
+   
  <summary>Click to expand!</summary>
   
 ```python
