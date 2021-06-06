@@ -6,34 +6,39 @@
 <!--   <img align='right' src="/Companylogo.jpeg" width="400"> -->
   
 
-   <svg height="80" width="300">
-  <g fill="none">
-    <path stroke="red" d="M5 20 l215 0" />
-    <path stroke="black" d="M5 40 l215 0" />
-    <path stroke="blue" d="M5 60 l215 0" />
-  </g>
-  Sorry, your browser does not support inline SVG.
-</svg>
+   
  ###  :computer: Tech Stack 
  HTML ,Python, Node JS,C#,  Unity 3D
  <details>
  <summary>HTML</summary>
- intermidiat levele in html  
+ intermediate level in html  
  </details> 
   
- 
-  <details>
+<details>
  <summary>Python</summary>
- intermidiat levele in python 
-     using for all problam solving 
- </details> 
-   
+~~~
+a
+b
+c
+~~~
+ intermediate level python and OOPS in python
+    using for all problam solvings
+  </details> 
   
-  
- <details style="padding: 4px; width: 200px; background-color: #eeeeee;  border: none;  box-shadow: 1px 1px 2px #bbbbbb">
+  <details >
  <summary>Node JS</summary>
- intermidiat levele in Node js 
- build API for parsnal projects
+ intermediate level Node js 
+  </details> 
+  
+ <details>
+ <summary>C#</summary>
+ intermediate level in C#
+   working with C# in uniyt to Build 2D and 3D games
+ </details> 
+  
+  <details>
+ <summary>Unity 3D</summary>
+ intermediate level in Unity 3D Software 
  </details> 
   
    
