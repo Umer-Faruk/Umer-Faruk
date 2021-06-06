@@ -12,15 +12,14 @@
  HTML ,Python, Node JS,C#,  Unity 3D
   
    
-<!--      <a target="_blank" href="https://www.youtube.com/watch?v=Onv9nhPIBp0&t=1m2s">Link to YouTube</a>.
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/Onv9nhPIBp0" frameborder="0" allowfullscreen> </iframe>
- -->
-      <details>
-         <summary>Click to expand!</summary>
-         hi all this is Hidden text
-      </details>
-
-   
+ <details>
+ <summary>Click to expand!</summary>
+  
+```python
+def func():
+    return 'hello, world!'
+```
+</details>
  
  ### Medium Blog:
   <h4>How to Write a Simple Game using Python</h4>:https://medium.com/@umcreation.gvt/my-first-simple-game-using-python-91190edf6045
