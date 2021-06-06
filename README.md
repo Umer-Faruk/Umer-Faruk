@@ -6,8 +6,14 @@
 <!--   <img align='right' src="/Companylogo.jpeg" width="400"> -->
   
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-  
+   <svg height="80" width="300">
+  <g fill="none">
+    <path stroke="red" d="M5 20 l215 0" />
+    <path stroke="black" d="M5 40 l215 0" />
+    <path stroke="blue" d="M5 60 l215 0" />
+  </g>
+  Sorry, your browser does not support inline SVG.
+</svg>
  ###  :computer: Tech Stack 
  HTML ,Python, Node JS,C#,  Unity 3D
  <details>
