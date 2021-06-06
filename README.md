@@ -14,30 +14,31 @@
  <summary>HTML</summary>
  intermidiat levele in html  
  </details> 
- <details>,
-   <details>
+  
+ 
+  <details>
  <summary>Python</summary>
  intermidiat levele in python 
      using for all problam solving 
  </details> 
- <details>,
- <details>
+  padding: 4px;
+  width: 200px;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  
+  
+ <details style="padding: 4px; width: 200px; background-color: #eeeeee;  border: none;  box-shadow: 1px 1px 2px #bbbbbb">
  <summary>Node JS</summary>
  intermidiat levele in Node js 
  build API for parsnal projects
  </details> 
- <details>
-   
-   
-   
- <summary>Click to expand!</summary>
   
-```python
-def func():
-    return 'hello, world!'
-```
-</details>
- 
+   
+   
+   
+  
  ### Medium Blog:
   <h4>How to Write a Simple Game using Python</h4>:https://medium.com/@umcreation.gvt/my-first-simple-game-using-python-91190edf6045
   </br>
