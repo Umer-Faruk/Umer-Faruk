@@ -8,37 +8,45 @@
 
    
  ###  :computer: Tech Stack 
- HTML ,Python, Node JS,C#,  Unity 3D
+<!--  HTML ,Python, Node JS,C#,  Unity 3D -->
  <details>
  <summary>HTML</summary>
- intermediate level in html  
+    <blockquote>
+ intermediate level in html 
+       </blockquote>
  </details> 
  
   
 <details>
  <summary>Python</summary>
   <blockquote>
- 
- intermediate level python and OOPS in python
-    using for all problam solvings
-    </blockquote>
+    intermediate level python and OOPS in python
+ </br>
+  using for all problam solvings
+  </blockquote>
   </details> 
   
   
   <details >
  <summary>Node JS</summary>
+     <blockquote>
  intermediate level Node js 
+      </blockquote>
   </details> 
   
  <details>
  <summary>C#</summary>
- intermediate level in C#
+    <blockquote>
+ intermediate level in C# </br>
    working with C# in uniyt to Build 2D and 3D games
+       </blockquote>
  </details> 
   
   <details>
  <summary>Unity 3D</summary>
+   <blockquote>
  intermediate level in Unity 3D Software 
+   </blockquote>
  </details> 
   
    
