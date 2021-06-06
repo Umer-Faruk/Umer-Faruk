@@ -5,7 +5,6 @@
   ### love to developing games and problem solving 
 <!--   <img align='right' src="/Companylogo.jpeg" width="400"> -->
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Onv9nhPIBp0" frameborder="0" allowfullscreen> </iframe>
 
 
   
@@ -14,6 +13,8 @@
   
    <html> 
      <a target="_blank" href="https://www.youtube.com/watch?v=Onv9nhPIBp0&t=1m2s">Link to YouTube</a>.
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/Onv9nhPIBp0" frameborder="0" allowfullscreen> </iframe>
+
 
   </html>
  
