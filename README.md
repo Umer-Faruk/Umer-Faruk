@@ -154,8 +154,7 @@ Projects:<br>
    </td>
    <td>
   <h3>ToonBlast: </h3>
-  Download from playStore : :iphone:
-   <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
+    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
 
    </td>
   </tr>
@@ -172,13 +171,13 @@ Projects:<br>
    <td>
       <div>
   <h3>Snake VS Blocks:</h3>
-   <img align='right' src = "https://github.com/Umer-Faruk/GoGame/blob/main/snackVSblock.gif?raw=true"  width="100" height="200"/>
+   <img align='center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/snackVSblock.gif?raw=true"  width="100" height="200"/>
  </div>
  </td>
  <td>
   <div>
  <h3>DunckIT</h3>
-    <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/dunckit.gif?raw=true"  width="100" height="100"/>
+    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/dunckit.gif?raw=true"  width="100" height="100"/>
     </div>
   </td>
   </tr>
