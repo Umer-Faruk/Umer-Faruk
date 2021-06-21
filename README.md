@@ -149,7 +149,7 @@ Projects:<br>
   <td>
     <h3>Bingo:</h3>
       Download from playStore : :iphone:
-     <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="100"/>
+     <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
   </td>
     
     <td>
@@ -170,7 +170,7 @@ Projects:<br>
      <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/snackVSblock.gif?raw=true"  width="100" height="100"/>
   </td>
   
-     <tr>
+     
 </table>
   
 
