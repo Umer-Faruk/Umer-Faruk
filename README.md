@@ -161,24 +161,23 @@ Projects:<br>
   
  <tr>
   <td>
-  <div>
+  
    <h3> Quiz:</h3>
    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/quiz.gif?raw=true"  width="100" height="200"/>
   
- </div>
 </td>
 
    <td>
-      <div>
+      
   <h3>Snake VS Blocks:</h3>
    <img align='center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/snackVSblock.gif?raw=true"  width="100" height="200"/>
- </div>
+ 
  </td>
  <td>
-  <div>
+   
  <h3>DunckIT</h3>
     <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/dunckit.gif?raw=true"  width="100" height="200"/>
-    </div>
+   
   </td>
   </tr>
   
