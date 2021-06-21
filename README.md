@@ -166,8 +166,7 @@ Projects:<br>
    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/quiz.gif?raw=true"  width="100" height="200"/>
   
 </td>
-  </tr>
-  <tr>
+   
 
    <td>
       
