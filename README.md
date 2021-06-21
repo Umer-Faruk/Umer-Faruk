@@ -121,8 +121,7 @@
  <td>
  <h3> Expand_your_aria</h3>
   simple game build using python, pygame <br>
-  Link [here](# https://github.com/Umer-Faruk/Expand_your_aria).
-  https://github.com/Umer-Faruk/Expand_your_aria
+   https://github.com/Umer-Faruk/Expand_your_aria
   <img  align='right' src = "https://github.com/Umer-Faruk/Expand_your_aria/raw/master/image.png?raw=true"  width="100" height="100"/>
   </td>
  </tr>
