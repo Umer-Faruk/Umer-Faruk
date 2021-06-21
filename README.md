@@ -1,4 +1,5 @@
-<h1> Hi there it's me UmerFaruk👋   <img src="https://media.giphy.com/media/kFuavIYvRQZGg/giphy.gif" width="40" height="35"> <h1>
+<h1> Hi there it's me UmerFaruk👋  
+<img src="https://media.giphy.com/media/kFuavIYvRQZGg/giphy.gif" width="40" height="35"> <h1>
 
 
   I am a final year student at MSRIT Bangalore, in Information Science.  <img align='right' src="/Companylogo.jpeg" width="300" height="300">
@@ -134,6 +135,30 @@
 </td>
  </tr>
 </table>
+
+### Work Experience:
+company: GoGame (GG Online PrivateLimited)
+Role : junior unity game developer
+Projects:
+<table  backgoundcolor="green" border="0" >
+ <tr>
+    <td><b style="font-size:30px">Games</b></td>
+ </tr>
+  
+  <tr>
+  <td>
+    <h3>Bingo:</h3>
+      Download from playStore : :iphone:
+    https://play.google.com/store/apps/details?id=com.UMCreations.SticToFloor
+
+
+   </td>
+   <td>
+</table>
+  
+
+
+
 
 
 
