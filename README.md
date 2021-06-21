@@ -1,8 +1,8 @@
 <h1> Hi there it's me UmerFaruk👋  
 <img src="https://media.giphy.com/media/kFuavIYvRQZGg/giphy.gif" width="40" height="35"> <h1>
 
-
-  I am a final year student at MSRIT Bangalore, in Information Science.  <img align='right' src="/Companylogo.jpeg" width="300" height="300">
+student at MSRIT Bangalore!
+<!--   student at MSRIT Bangalore,   <img align='right' src="/Companylogo.jpeg" width="300" height="300"> -->
   ### love to developing games and problem solving 
 <!--   <img align='right' src="/Companylogo.jpeg" width="400"> -->
   
