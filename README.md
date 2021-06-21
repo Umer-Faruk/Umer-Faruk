@@ -143,39 +143,36 @@ Projects:<br>
 
  <table  backgoundcolor="green" border="0" >
  <tr>
-    <td><b style="font-size:30px">My Gmes:</b></td>
+    <td><b style="font-size:30px">Games:</b></td>
   </tr>
   
   <tr>
   <td>
     <h3>Bingo:</h3>
-    <img  align='center' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
+    <img  align='center' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="200"/>
 
    </td>
    <td>
-  <h3> : </h3>
+  <h3>ToonBlast: </h3>
   Download from playStore : :iphone:
-  https://play.google.com/store/apps/details?id=com.UMCreations.flytotop
-  </td>
+   <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
+
+   </td>
   </tr>
   
  <tr>
   <td>
   <div>
-   <h3> Expand_your_area:</h3>
-      a simple game built using JS and Phaser framework
-    https://umer-faruk.github.io/Expand_your_are_forweb/
-  <img  align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
+   <h3> Quiz:</h3>
+   <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/quiz.giff?raw=true"  width="100" height="200"/>
   
  </div>
 </td>
 
    <td>
       <div>
-  <h3>no_limit_snake:</h3>
-       a siple 2d game built using pygame
-        https://github.com/Umer-Faruk/no_limit_snake
-  <img align='right' src = "https://github.com/Umer-Faruk/no_limit_snake/raw/master/image.png?raw=true"  width="100" height="100"/>
+  <h3>Snake VS Blocks:</h3>
+   <img align='right' src = "https://github.com/Umer-Faruk/GoGame/blob/main/snackVSblock.gif?raw=true"  width="100" height="200"/>
  </div>
  </td>
  <td>
@@ -210,35 +207,7 @@ Projects:<br>
 
 
 
-
-<table  backgoundcolor="green" border="0" >
- <tr>
-    <td><b style="font-size:30px">Games</b></td>
- </tr>
-  
-  <tr>
-  <td>
-    <h3>Bingo:</h3>
-      Download from playStore : :iphone:
-     <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
-  </td>
-    
-    <td>
-  <h3> Fly-TO-Top: </h3>
-  Download from playStore : :iphone:
-  https://play.google.com/store/apps/details?id=com.UMCreations.flytotop
-   <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
-
-  </td>
-  
-    </tr>
-
-     
-</table>
-  
-
-
-
+ 
 
 
 
