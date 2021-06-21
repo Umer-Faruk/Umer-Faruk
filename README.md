@@ -138,8 +138,8 @@
 
 ### Work Experience:
 company: GoGame (GG Online PrivateLimited)
-Role : junior unity game developer
-Projects:
+Role : junior unity game developer <br>
+Projects:<br>
 <table  backgoundcolor="green" border="0" >
  <tr>
     <td><b style="font-size:30px">Games</b></td>
@@ -150,6 +150,7 @@ Projects:
     <h3>Bingo:</h3>
       Download from playStore : :iphone:
     https://play.google.com/store/apps/details?id=com.UMCreations.SticToFloor
+  <img  align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
 
 
    </td>
