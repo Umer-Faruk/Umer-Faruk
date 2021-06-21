@@ -121,6 +121,7 @@
  <td>
  <h3> Expand_your_aria</h3>
   simple game build using python, pygame <br>
+  Link [here](# https://github.com/Umer-Faruk/Expand_your_aria).
   https://github.com/Umer-Faruk/Expand_your_aria
   <img  align='right' src = "https://github.com/Umer-Faruk/Expand_your_aria/raw/master/image.png?raw=true"  width="100" height="100"/>
   </td>
@@ -140,12 +141,12 @@ Projects:<br>
   <tr>
   <td>
   <h3>Bingo:</h3>
-  <img src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
+  <img align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
   </td>
     
   <td>
   <h3>ToonBlast: </h3>
-  <img    src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
+  <img align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
   </td>
     
   <td>
@@ -166,7 +167,7 @@ Projects:<br>
  
  <td> 
  <h3> MAtch1</h3>
- <img align='right' src ="https://github.com/Umer-Faruk/GoGame/blob/main/match1.gif?raw=true"  width="100" height="200"/>
+ <img align='center' src ="https://github.com/Umer-Faruk/GoGame/blob/main/match1.gif?raw=true"  width="100" height="200"/>
  </td>
  </tr>
   
