@@ -149,7 +149,7 @@ Projects:<br>
   <tr>
   <td>
     <h3>Bingo:</h3>
-    <img  align='center' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="200"/>
+    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
 
    </td>
    <td>
@@ -164,7 +164,7 @@ Projects:<br>
   <td>
   <div>
    <h3> Quiz:</h3>
-   <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/quiz.giff?raw=true"  width="100" height="200"/>
+   <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/quiz.gif?raw=true"  width="100" height="200"/>
   
  </div>
 </td>
