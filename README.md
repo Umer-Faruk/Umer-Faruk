@@ -137,7 +137,7 @@
 </table>
 
 ### Work Experience:
-company: GoGame (GG Online PrivateLimited)
+company: GoGame (GG Online PrivateLimited) <br>
 Role : junior unity game developer <br>
 Projects:<br>
 <table  backgoundcolor="green" border="0" >
@@ -149,12 +149,28 @@ Projects:<br>
   <td>
     <h3>Bingo:</h3>
       Download from playStore : :iphone:
-    https://play.google.com/store/apps/details?id=com.UMCreations.SticToFloor
-  <img  align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
-
-
-   </td>
-   <td>
+     <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="100"/>
+  </td>
+    
+    <td>
+    <h3>ToonBlast:</h3>
+      Download from playStore : :iphone:
+     <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="100"/>
+  </td>
+    
+    <td>
+    <h3>QUIZ:</h3>
+      Download from playStore : :iphone:
+     <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/quiz.gif?raw=true"  width="100" height="100"/>
+  </td>
+    
+    <td>
+    <h3>QUIZ:</h3>
+      Download from playStore : :iphone:
+     <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/snackVSblock.gif?raw=true"  width="100" height="100"/>
+  </td>
+  
+     <tr>
 </table>
   
 
