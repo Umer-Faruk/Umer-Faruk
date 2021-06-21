@@ -186,9 +186,16 @@ Projects:<br>
  </div>
  
   </tr>
+  
+  
   <tr>
  <td>
   <div>
+<h3> memory Match </h3>
+     <img  align=' center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/match.gif?raw=true"  width="100" height="200"/>
+    </div>
+   
+   <div>
 <h3> memory Match </h3>
      <img  align=' center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/match.gif?raw=true"  width="100" height="200"/>
     </div>
