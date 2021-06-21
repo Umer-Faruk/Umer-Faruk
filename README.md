@@ -157,15 +157,17 @@ Projects:<br>
     <img    src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
 
    </td>
-  </tr>
+   
   
- <tr>
+ 
   <td>
   
    <h3> Quiz:</h3>
    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/quiz.gif?raw=true"  width="100" height="200"/>
   
 </td>
+  </tr>
+  <tr>
 
    <td>
       
@@ -179,9 +181,9 @@ Projects:<br>
     <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/dunckit.gif?raw=true"  width="100" height="200"/>
    
   </td>
-  </tr>
   
-  <tr>
+  
+   
   <td> 
     <div>
  <h3> my_suparman</h3>
@@ -190,6 +192,8 @@ Projects:<br>
  <img align='right' src = "https://github.com/Umer-Faruk/Pygame_projects/raw/master/image.png?raw=true"  width="200" height="100"/>
  </div>
  
+  </tr>
+  <tr>
  <td>
   <div>
 <h3> Expand_your_aria</h3>
