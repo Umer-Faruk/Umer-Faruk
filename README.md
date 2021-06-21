@@ -157,9 +157,7 @@ Projects:<br>
     <img    src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
 
    </td>
-   
-  
- 
+    
   <td>
   
    <h3> Quiz:</h3>
@@ -167,7 +165,6 @@ Projects:<br>
   
 </td>
    
-
    <td>
       
   <h3>Snake VS Blocks:</h3>
@@ -180,9 +177,7 @@ Projects:<br>
     <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/dunckit.gif?raw=true"  width="100" height="200"/>
    
   </td>
-  
-  
-   
+ 
   <td> 
     <div>
  <h3> MAtch1</h3>
@@ -194,10 +189,19 @@ Projects:<br>
   <tr>
  <td>
   <div>
-<h3> Memorry Match </h3>
-     <img  align='right' src = "https://github.com/Umer-Faruk/GoGame/blob/main/match.gif?raw=true"  width="100" height="00"/>
+<h3> memory Match </h3>
+     <img  align=' center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/match.gif?raw=true"  width="100" height="200"/>
     </div>
 </td>
+    
+    <td>
+  <div>
+<h3> Word Search </h3>
+     <img  align=' center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/wordsearch.gif?raw=true"  width="100" height="200"/>
+    </div>
+</td>
+    
+    
  </tr>
 </table>
 
