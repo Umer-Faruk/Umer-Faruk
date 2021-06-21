@@ -177,10 +177,8 @@ Projects:<br>
  </td>
  <td>
   <div>
- <h3>catch_me_if_you_can</h3>
-      a simple 2d game built using python, pygame
-    https://github.com/Umer-Faruk/catch_me_if_you_can
-   <img  align='right' src="https://github.com/Umer-Faruk/catch_me_if_you_can/blob/master/gifimage.gif?raw=true"  width="100" height="100"/>
+ <h3>DunckIT</h3>
+    <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/dunckit.gif?raw=true"  width="100" height="100"/>
     </div>
   </td>
   </tr>
