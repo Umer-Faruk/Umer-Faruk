@@ -149,7 +149,7 @@ Projects:<br>
   <tr>
   <td>
     <h3>Bingo:</h3>
-    <img    src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
+    <img src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
 
    </td>
    <td>
@@ -185,20 +185,17 @@ Projects:<br>
    
   <td> 
     <div>
- <h3> my_suparman</h3>
-      
-  https://github.com/Umer-Faruk/Pygame_projects
- <img align='right' src = "https://github.com/Umer-Faruk/Pygame_projects/raw/master/image.png?raw=true"  width="200" height="100"/>
+ <h3> MAtch1</h3>
+     
+  <img align='right' src ="https://github.com/Umer-Faruk/GoGame/blob/main/match1.gif?raw=true"  width="100" height="200"/>
  </div>
  
   </tr>
   <tr>
  <td>
   <div>
-<h3> Expand_your_aria</h3>
-      simple game build using python, pygame
-    https://github.com/Umer-Faruk/Expand_your_aria
-   <img  align='right' src = "https://github.com/Umer-Faruk/Expand_your_aria/raw/master/image.png?raw=true"  width="100" height="100"/>
+<h3> Memorry Match </h3>
+     <img  align='right' src = "https://github.com/Umer-Faruk/GoGame/blob/main/match.gif?raw=true"  width="100" height="00"/>
     </div>
 </td>
  </tr>
