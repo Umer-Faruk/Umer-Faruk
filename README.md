@@ -149,12 +149,12 @@ Projects:<br>
   <tr>
   <td>
     <h3>Bingo:</h3>
-    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
+    <img    src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
 
    </td>
    <td>
   <h3>ToonBlast: </h3>
-    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
+    <img    src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
 
    </td>
   </tr>
@@ -177,7 +177,7 @@ Projects:<br>
  <td>
   <div>
  <h3>DunckIT</h3>
-    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/dunckit.gif?raw=true"  width="100" height="100"/>
+    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/dunckit.gif?raw=true"  width="100" height="200"/>
     </div>
   </td>
   </tr>
