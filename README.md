@@ -143,70 +143,57 @@ Projects:<br>
 
  <table  backgoundcolor="green" border="0" >
  <tr>
-    <td><b style="font-size:30px">Games:</b></td>
-  </tr>
+ <td><b style="font-size:30px">Games:</b></td>
+ </tr>
   
   <tr>
   <td>
-    <h3>Bingo:</h3>
-    <img src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
-
-   </td>
-   <td>
-  <h3>ToonBlast: </h3>
-    <img    src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
-
-   </td>
-    
-  <td>
-  
-   <h3> Quiz:</h3>
-   <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/quiz.gif?raw=true"  width="100" height="200"/>
-  
-</td>
-   
-   <td>
-      
-  <h3>Snake VS Blocks:</h3>
-   <img align='center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/snackVSblock.gif?raw=true"  width="100" height="200"/>
- 
- </td>
- <td>
-   
- <h3>DunckIT</h3>
-    <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/dunckit.gif?raw=true"  width="100" height="200"/>
-   
+  <h3>Bingo:</h3>
+  <img src="https://github.com/Umer-Faruk/GoGame/blob/main/bingo.gif?raw=true"  width="100" height="200"/>
   </td>
+    
+  <td>
+  <h3>ToonBlast: </h3>
+  <img    src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="200"/>
+  </td>
+    
+  <td>
+  <h3> Quiz:</h3>
+   <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/quiz.gif?raw=true"  width="100" height="200"/>
+  </td>
+   
+   <td>
+   <h3>Snake VS Blocks:</h3>
+   <img align='center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/snackVSblock.gif?raw=true"  width="100" height="200"/>
+   </td>
+    
+    
+ <td>
+ <h3>DunckIT</h3>
+ <img  align='center' src="https://github.com/Umer-Faruk/GoGame/blob/main/dunckit.gif?raw=true"  width="100" height="200"/>
+ </td>
  
-  <td> 
-    <div>
+ <td> 
  <h3> MAtch1</h3>
-     
-  <img align='right' src ="https://github.com/Umer-Faruk/GoGame/blob/main/match1.gif?raw=true"  width="100" height="200"/>
- </div>
- 
-  </tr>
+ <img align='right' src ="https://github.com/Umer-Faruk/GoGame/blob/main/match1.gif?raw=true"  width="100" height="200"/>
+ </td>
+ </tr>
   
   
   <tr>
- <td>
+  <td>
   <div>
-<h3> memory Match </h3>
+  <h3> memory Match </h3>
      <img  align=' center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/match.gif?raw=true"  width="100" height="200"/>
-    </div>
-   
-   <div>
-<h3> memory Match </h3>
-     <img  align=' center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/match.gif?raw=true"  width="100" height="200"/>
-    </div>
-</td>
+  </div>
+  </td>
     
-    <td>
+  <td>
   <div>
-<h3> Word Search </h3>
+  <h3> Word Search </h3>
      <img  align=' center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/wordsearch.gif?raw=true"  width="100" height="200"/>
-    </div>
-</td>
+  </div>
+  </td>
     
     
  </tr>
