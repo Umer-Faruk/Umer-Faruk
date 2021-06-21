@@ -153,31 +153,6 @@ Projects:<br>
   </td>
     </tr>
 
-  <tr>
-  <td>
-    <h3>ToonBlast:</h3>
-      Download from playStore : :iphone:
-     <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/toonblast.gif?raw=true"  width="100" height="100"/>
-  </td>
-  </tr>
-  
-  <tr>
-    
-    <td>
-    <h3>QUIZ:</h3>
-      Download from playStore : :iphone:
-     <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/quiz.gif?raw=true"  width="100" height="100"/>
-  </td>
-  </tr>
-  
-  <tr>
-    
-    <td>
-    <h3>QUIZ:</h3>
-      Download from playStore : :iphone:
-     <img  align='right' src="https://github.com/Umer-Faruk/GoGame/blob/main/snackVSblock.gif?raw=true"  width="100" height="100"/>
-  </td>
-  </tr>
      
 </table>
   
