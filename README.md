@@ -200,6 +200,13 @@ Projects:<br>
   </div>
   </td>
     
+  <td>
+  <div>
+  <h3> Coin Smasher </h3>
+     <img  align=' center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/coin%20smasher.gif?raw=true"  width="100" height="200"/>
+  </div>
+  </td>
+    
     
  </tr>
 </table>
