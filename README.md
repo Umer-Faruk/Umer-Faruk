@@ -193,6 +193,13 @@ Projects:<br>
   </div>
   </td>
     
+   <td>
+  <div>
+  <h3> Tic Tac Toe </h3>
+     <img  align=' center' src = "https://github.com/Umer-Faruk/GoGame/blob/main/tic%20tac%20toe.gif?raw=true"  width="100" height="200"/>
+  </div>
+  </td>
+    
     
  </tr>
 </table>
