@@ -62,14 +62,15 @@ Studied at MSRIT Bangalore!
    
    
   
- ### Medium Blog:
-  <h4>How to Write a Simple Game using Python</h4>: [Link](https://medium.com/@umcreation.gvt/my-first-simple-game-using-python-91190edf6045)
+### Medium Blog:
+  <h4>How to Write a Simple Game using Python</h4>: 
+  [Link](https://medium.com/@umcreation.gvt/my-first-simple-game-using-python-91190edf6045);
   </br>
 ### Dapp:
 <h4>CollectionCreator:
 </h4>:
 <p> A Dapp Built on Etherin Rinkeby test net Using Solidity contract,Metamask Web3 Provider,Web3,JS,HTML </P>
-[Project Link](http://umcreations.me/CollectionCreator/)
+[Project Link](http://umcreations.me/CollectionCreator/);
 
 <h4>
  </br>
