@@ -1,12 +1,11 @@
-<h1> [Hi there it's me UmerFaruk👋 Blog link](http://umcreations.me/)
+<h1> <a href="http://umcreations.me">Hi there it's me UmerFaruk👋  </a>
   
 <img src="https://media.giphy.com/media/kFuavIYvRQZGg/giphy.gif" width="40" height="35"> <h1>
 
+ 
 Studied at MSRIT Bangalore!
-<!--   student at MSRIT Bangalore,   <img align='right' src="/Companylogo.jpeg" width="300" height="300"> -->
-  ### love to developing games and problem solving 
-<!--   <img align='right' src="/Companylogo.jpeg" width="400"> -->
-  
+   ### love to developing games and problem solving 
+   
 
   <details open>
  <summary> <B> :computer: Tech Stack </B></summary>
@@ -66,6 +65,7 @@ Studied at MSRIT Bangalore!
 ### Medium Blog:
 How to Write a Simple Game using Python
 [Blog link](https://medium.com/@umcreation.gvt/my-first-simple-game-using-python-91190edf6045)
+
  
 
 ### Dapp:
