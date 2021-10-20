@@ -1,4 +1,5 @@
-<h1> Hi there it's me UmerFaruk👋  
+<h1> [Hi there it's me UmerFaruk👋 Blog link](http://umcreations.me/)
+  
 <img src="https://media.giphy.com/media/kFuavIYvRQZGg/giphy.gif" width="40" height="35"> <h1>
 
 Studied at MSRIT Bangalore!
