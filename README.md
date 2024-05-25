@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/kFuavIYvRQZGg/giphy.gif" width="40" height="35"> <h1>
 
  
-Studied at MSRIT Bangalore!
+
    ### love to developing games and problem solving 
    
 
